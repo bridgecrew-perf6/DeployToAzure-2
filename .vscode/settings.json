@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/55a8dd11-5497-4b6b-892f-d159824cdaeb/resourceGroups/NewOpeFullStacWithNode/providers/Microsoft.Web/sites/NewOpeFullStacWithNode",
+    "appService.deploySubpath": "."
+}
